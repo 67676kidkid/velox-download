@@ -14,7 +14,7 @@ that can undo every change.
 
 | | |
 |---|---|
-| Platform | **Windows 10 / 11, 64-bit** |
+| Platform | **Windows 10 / 11, 64-bit** — **Windows only** (no macOS/Linux) |
 | RAM | 4 GB or more (it runs on 2 GB, but slowly) |
 | Install | Portable — just run it, nothing to install |
 | Requires | Administrator rights — Windows shows the UAC prompt automatically on launch |
